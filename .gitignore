@@ -1,0 +1,34 @@
+# Data
+data/
+*.csv
+*.zip
+*.parquet
+*.feather
+
+# Models & Results
+/results/
+submissions/
+*.joblib
+*.pkl
+*.model
+
+# Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
