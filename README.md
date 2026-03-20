@@ -90,4 +90,4 @@ We experimented with multiple configurations and datasets to optimize the RMSE.
 
 ## 📞 Contact
 **Project by Moh**  
-[LinkedIn](https://www.linkedin.com/) | [GitHub Portfolio](https://github.com/mohPr)
+[upwork]([https://www.linkedin.com/](https://www.upwork.com/freelancers/~017ad58cfdb70df9be?qpn-profile-completeness=portfolio)) | [GitHub Portfolio](https://github.com/mohPr)
